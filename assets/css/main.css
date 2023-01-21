@@ -1294,7 +1294,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #intro {
-	background-image: url(../assets/images/icon-bg.jpg);
+	background-image: url("assets/images/icon-bg.jpg");
     background-attachment: fixed;
     width: 100%;
     height: 100%;
