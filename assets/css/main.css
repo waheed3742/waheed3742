@@ -1285,7 +1285,16 @@ header .logo a {
 		left: 25px;
 	}
 }
+@media only screen and (max-width:320px) {
+	header .top-bar {
+		min-height: 80px;
+		left: 25px;
+	}
+	header .logo{
+		margin-top: 0px;
+	}
 
+}
 
 /** 
  * ===================================================================
