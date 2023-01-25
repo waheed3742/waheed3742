@@ -1280,7 +1280,7 @@ header .logo a {
 		left: 35px;
 	}
 }
-@media only screen and (max-width:400px) {
+@media only screen and (min-width:365px) and (max-width:400px) {
 	header .top-bar {
 		left: 25px;
 	}
